@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: darkblue;
+    font-weight: 800;
+    font-size: 2rem;
+}
+.JAC{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-family:"Whisper",serif;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: 75px;
+}
+#Pondati{
+    border: 2px dashed purple;
+    width: 300px;
+    height: 300px;
+}
